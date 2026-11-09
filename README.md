@@ -97,7 +97,8 @@ I enjoy writing clean, maintainable code and building software that solves pract
 
 # 💡 Philosophy
 
-> **"Great software isn't just functional—it's scalable, maintainable, and built with the user in mind."**
+> **"Great software isn't just functional—it's scalable, maintainable, and built with the user in mind.
+Full Stack Developer | Building Scalable SaaS & Production AI | @huzaifabashir03"**
 
 ---
 
